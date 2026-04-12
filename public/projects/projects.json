@@ -1424,20 +1424,19 @@
     {
       "id": 25,
       "contact": {
-        "name": "Araz Hussein",
+        "name": "Araz Tayib",
         "email": "araz.parc@harikar.org"
       },
-      "name": "Protection and Assistance program for refugees and IDPs in Duhok-Iraq",
-      "start": "2025-01-01",
-      "end": "2025-12-31",
+      "name": "Protection and Assistance Program for Refugees and Asylum Seekers in Iraq",
+      "start": "2026-01-01",
+      "end": "2026-12-31",
       "budget": 4331056080,
       "summary": "Ensure that POCs (Syrian, non-Syrian refugees and IDPs) in and out of camps have access to free legal aid, protection, basic services and GBV response services, and empower the community by providing assistance to community representation structures with information dissemination and managing and leading activities.",
       "partners": [
         "UNHCR"
       ],
       "clusters": [
-        "Protection",
-        "GBV"
+        "Protection"
       ],
       "locations": {
         "type": [
