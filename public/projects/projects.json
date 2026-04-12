@@ -1422,20 +1422,19 @@
     {
       "id": 25,
       "contact": {
-        "name": "Araz Hussein",
+        "name": "Araz Tayib",
         "email": "araz.parc@harikar.org"
       },
-      "name": "Protection and Assistance program for refugees and IDPs in Duhok-Iraq",
-      "start": "2025-01-01",
-      "end": "2025-12-31",
+      "name": "Protection and Assistance Program for Refugees and Asylum Seekers in Iraq",
+      "start": "2026-01-01",
+      "end": "2026-12-31",
       "budget": 4331056080,
-      "summary": "Ensure that POCs (Syrian, non-Syrian refugees and IDPs) in and out of camps have access to free legal aid, protection, basic services and GBV response services, and empower the community by providing assistance to community representation structures with information dissemination and managing and leading activities.",
+      "summary": "This project aims to strengthen protection and access to justice for refugees in Duhok, KRI, by providing free legal assistance, including legal counselling and representation, in line with UNHCR priorities. Through this support, refugees are better able to understand their rights, resolve legal issues, and access national systems in a safe and dignified manner. The project also supports community engagement and accountability through the continued operation of UNHCR’s Unified Hotline, which serves as a centralized channel for refugees and asylum seekers across Iraq, including the Kurdistan Region of Iraq, to submit inquiries, feedback, and complaints. In addition, the project includes Post-Distribution Monitoring activities to assess the effectiveness and accessibility of cash assistance, helping to improve the quality and responsiveness of humanitarian support.",
       "partners": [
         "UNHCR"
       ],
       "clusters": [
         "Protection",
-        "GBV"
       ],
       "locations": {
         "type": [
@@ -1480,30 +1479,23 @@
           "Refugees",
           "Returnees"
         ],
-        "target": 95455
+        "target": 30K
       },
       "objectives": [
-        "Access to legal assistance and legal remedies supported",
-        "Quality service provision and community mechanisms for GBV prevention, mitigation and response are strengthened",
-        "Profiling of Refugees and IDPs planned and undertaken",
-        "Access to civil registration and documentation supported",
-        "Strengthening community feedback mechanism and two-way communication between communities and service providers to enhance accountability (Communication with Communities)",
-        "Support community-led protection response and social cohesion initiatives"
+        "Promote access to justice and legal assistance and prevent the risk of refoulement and detention",
+        "Advocate for maintaining and expanding access to relevant public services including social protection and support an inclusive legal and policy employment framework for refugees and asylum-seekers"
       ],
       "activities": [
-        "PSS counselling, Case management, GBV awareness raising, GBV capacity building",
-        "Legal representation, Legal counselling, Legal awareness raising, Detention monitoring",
-        "Protection monitoring (PMT, ASSIST, PMS,other tools as per required)",
-        "Community based mechanisims for awareness raising and senitization",
-        "Community based peaceful co-existence initiatives",
-        "Community assessments for men, women, boys, girls",
-        "Conducting awareness and sensitization campaigns"
+        "Legal representation, Legal counselling, Detention monitoring",
+        "Border monitoring",
+        "Operating UNHCR’s Unified Hotline having refugees access feedback and response mechanisms",
+        "Conduct Post-Distribution Monitoring for the UNHCR CBI"
       ],
       "state": "onGoing",
       "employees": {
-        "male": 35,
-        "female": 19,
-        "total": 54
+        "male": 28,
+        "female": 14,
+        "total": 42
       }
     }
   ]
